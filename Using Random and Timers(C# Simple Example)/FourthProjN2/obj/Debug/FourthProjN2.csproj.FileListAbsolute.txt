@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\bin\Debug\FourthProjN2.exe.config
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\bin\Debug\FourthProjN2.exe
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\bin\Debug\FourthProjN2.pdb
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.Form1.resources
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.Properties.Resources.resources
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.exe
+C:\Users\user\Desktop\2nd Year projects\C#\Using Random(Project 4)\FourthProjN2\FourthProjN2\obj\Debug\FourthProjN2.pdb
