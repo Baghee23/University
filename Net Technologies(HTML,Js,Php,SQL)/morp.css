@@ -1,0 +1,25 @@
+
+table#t01 {
+  font-family:arial,sans-serif;
+  width:40%;
+  border:1px solid lightgrey;
+  border-spacing:0px 0px;
+} 
+td,th{
+  text-align:top;
+  padding:15px;
+}
+tr:nth-child(even){
+  background-color: #dddddd;
+}
+tr:nth-child(odd){
+  background-color: #ffffff;
+}
+input[type=submit] {
+ width:40%;
+ height:100px;
+}
+input[type=reset]{
+ width:40%;
+ height:100px;
+}

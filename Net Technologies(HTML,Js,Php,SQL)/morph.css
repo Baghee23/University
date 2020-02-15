@@ -1,0 +1,36 @@
+body {background-image:url('bi.jpg');
+         background-repeat: no-repeat;}
+table{
+  font-family:arial,sans-serif;
+  width:40%;
+  border:1px solid black;
+  border-spacing:0px 0px;
+} 
+td,th{
+  text-align:top;
+  padding:15px;
+}
+tr:nth-child(even){
+  background-color: #454140;
+}
+tr:nth-child(odd){
+  background-color: #6b5b95;
+}
+input[type=submit] {
+ width:15%;
+ height:100px;
+}
+input[type=reset]{
+ width:15%;
+ height:100px;
+}
+h1{
+ text-align:center;
+ text-shadow:2px 0px purple;
+ background-color:black;
+ 
+}
+a {
+color:orange;
+text-decoration:none;
+}

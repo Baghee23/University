@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Form1</title>
+  <link rel="stylesheet" type="text/css" href="morp.css">
+<style type="text/css">
+  table#t03{font-size:12pt;font-family:verdana;color:black;text-align:left;
+  border:1px solid blue;}
+  input[type=text]{
+    padding:10px 1px;
+    width:40%;
+    margin:0% 29%;
+  }
+  body{
+    background-image: url("wbf1.jpg");
+
+  }
+
+</style>
+<meta charset="utf-8">
+</head>
+  <body>
+  <form>
+    <table id="t03">
+    <tr style="background-color:#000099;color:white;"><td><h4><strong>Φόρμα Επικοινωνίας</strong></h4></tr></td>
+    <tr><td>Ονοματεπώνυμο*<input id="name" type="text" name="Ονοματεπώνυμο"></tr></td>
+    <tr><td>Τηλέφωνο<input id="phone" type="text" name="Τηλέφωνο"></tr></td>
+    <tr><td>E-mail*<input id="mail" type="text" name="E-mail"></tr></td>
+    <tr><td>Αίτημα,Ερώτημα*<textarea id="quest"  name="Αίτημα,Ερώτημα*" rows="10" cols="40"></textarea></tr></td>
+    <tr><td><p>Τα πεδία με * είναι υποχρεωτικά</p>
+    <input type="reset" value="Καθαρισμό">
+    <input id="btn" type="submit" value="Αποστολή"></tr></td>
+    </table>
+  </form>
+    <script>
+      function Check(name,phone,mail,quest)
+      {
+        if (name == ""){
+          alert("Πρέπει να συμπληρώσετε όλα τα υποχρεωτικά πεδία!")
+        }
+        else if (mail == ""){
+          alert("Πρέπει να συμπληρώσετε όλα τα υποχρεωτικά πεδία!")
+        }
+        else if (quest == ""){
+          alert("Πρέπει να συμπληρώσετε όλα τα υποχρεωτικά πεδία!")
+        }
+        else {
+          var Bstart="Ονοματεπώνυμο*:"+name+"\vΤηλεφωνο:"+phone+"\vΕ-MAIL*:"+mail+"\vΑιτημα,Ερωτημα*:"+quest;
+          var myWindow=window.open("","_self");
+          myWindow.document.write("<table style='border:1px solid blue;width:100%'><tr style='background-color:#000099;color:white;'><td colspan='2'><h4><strong> Είστε σίγουροι για την αποστολή του παρακάτω e-mail;</strong></h4></tr></td><tr><td>Ονοματεπώνυμο*:</td><td>"+name.fontsize(30)+"</td></tr><tr><td>Τηλέφωνο:</td><td>"+phone.fontsize(30)+"</td></tr><tr><td>E-mail*:</td><td>"+mail.fontsize(30)+"</td></tr><tr><td>Αίτημα,Ερώτημα*:</td><td>"+quest.fontsize(30)+"</td></tr><tr><td><a href='mailto:nalunaruhina21@gmail.com?subject=ΑΥΤΟΜΑΤΗ%20ΦΟΡΜΑ%20ΕΠΙΚΟΙΝΩΝΙΑΣ&body="+Bstart+"'style='color:black;font-size:30px;'>Αποστολή</a></td><td><a href='form1.html' style='color:black;font-size:30px;'>Επιστροφή στη φόρμα επικοινωνίας</a></td></tr></table>")
+      }
+      }
+
+      function ClickMe ()
+      {
+        Check(document.getElementById('name').value,
+        document.getElementById('mail').value,
+        document.getElementById('quest').value,
+        document.getElementById('phone').value);
+      }
+    document.getElementById('btn').onclick= function(){ClickMe()};
+    </script>
+    <a href="Fproj.php">Επιστροφή στην κεντρική σελίδα</a>
+  </body>
+</html>
