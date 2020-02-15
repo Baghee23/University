@@ -1,0 +1,4 @@
+It's always good asking for some help!So first of all in order to play you have to choose your opponent,you can play against the computer or compete against another player.
+Then you have to choose the dimensions of the tic-tac-toe game you'd like to compete to.
+The starting player is randomly chosen and is being displayed,the starting player marks the box with an "X" and the other with an "O",the player who is the first to fill N(depending on the given dimensions) boxes horizontally,vertically or diagonally is the winner.
+If all the boxes are filled without a winner then it's a tie.Hope you enjoy!

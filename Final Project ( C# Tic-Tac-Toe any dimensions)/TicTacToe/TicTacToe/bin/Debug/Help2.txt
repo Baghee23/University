@@ -1,0 +1,4 @@
+Stats are being displayed as long as you play just to inform you of your progress.
+Everytime you finish a game against the computer or another player you can always go back to the main menu and check on your stats.
+You can erase your stats whenever you want BUT you won't be able to undo your choice meaning that all of your progress will be lost.
+Stats help you improve your skills and show your opponents who the real master is!
