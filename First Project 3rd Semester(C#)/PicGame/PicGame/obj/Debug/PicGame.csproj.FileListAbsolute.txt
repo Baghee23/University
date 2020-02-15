@@ -1,0 +1,47 @@
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe.config
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.pdb
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form1.resources
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Properties.Resources.resources
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.exe
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.pdb
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form2.resources
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2nd Year projects\C#\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.ResolveComReference.cache
+D:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe.config
+D:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe
+D:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.pdb
+D:\FirstProjSem\PicGame\PicGame\bin\Debug\Interop.WMPLib.dll
+D:\FirstProjSem\PicGame\PicGame\bin\Debug\AxInterop.WMPLib.dll
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csprojAssemblyReference.cache
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\Interop.WMPLib.dll
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\AxInterop.WMPLib.dll
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.ResolveComReference.cache
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form1.resources
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form2.resources
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Properties.Resources.resources
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.GenerateResource.cache
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.exe
+D:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.pdb
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csprojAssemblyReference.cache
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\Interop.WMPLib.dll
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\AxInterop.WMPLib.dll
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.ResolveComReference.cache
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form1.resources
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Form2.resources
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.Properties.Resources.resources
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.GenerateResource.cache
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.csproj.CoreCompileInputs.cache
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.exe
+E:\FirstProjSem\PicGame\PicGame\obj\Debug\PicGame.pdb
+E:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe.config
+E:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.exe
+E:\FirstProjSem\PicGame\PicGame\bin\Debug\PicGame.pdb
+E:\FirstProjSem\PicGame\PicGame\bin\Debug\Interop.WMPLib.dll
+E:\FirstProjSem\PicGame\PicGame\bin\Debug\AxInterop.WMPLib.dll

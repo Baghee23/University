@@ -1,0 +1,8 @@
+Hello challenger!
+MAIN MENU:
+In order to play you have to fill an acceptable name("Player's Name" mustn't start with space),select one of the three levels displayed and then press the "POP" button under the level selection.You can enter the same name multiple times as the game keeps track of all scores achieved like the good old days!If you want to see your progress or other player's score you just have to select a level under "Show from level".
+HOW TO PLAY THE GAME:
+You have to click on the RED balloon to pop it as many times as you can.
+Every pop gives you 10 score points!If you click on a GREEN balloon you will lose 5 score points,if you click on the YELLOW one you will lose 10 score points.
+If the remaining time is equal or less to 10 secs every time you pop the balloon,you gain one extra second added to your playtime! 
+At the first level of the game you have 30 seconds,at the second level 1 minute and at the third one you have 1 minute and 30 seconds!Furthermore everytime a level ends you have to return to the main menu!Hope you enjoy and take notice that no game manual give all the info displayed in the game!

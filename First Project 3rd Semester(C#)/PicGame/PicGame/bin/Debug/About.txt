@@ -1,0 +1,8 @@
+This game was made from Fotis Stavropoulos.I'm a student at the department of Computer Science at University of Piraeus and this was a mini third semester project for C# course. 
+It is a beta version and new updates will come shortly.
+You can also contribute to the game by giving me a feedback.
+This project was finished at 18/11/2019.
+Contact info:
+	E-mail:nalunaruhina21@gmail.com
+	Phone number:6986729113
+	 
